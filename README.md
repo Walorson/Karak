@@ -1,5 +1,5 @@
 # Karak
-Karak board game in digital version (Game in polish version, so I will be writing in polish XDDDDDDDD)
+Karak board game in digital version (Game is in polish version, so I will be writing in polish XDDDDDDDD)
 
 ## Co to jest?
 Gra jest przeniesieniem gry planszowej "KARAK" na kąkuter w grafice tekstowej w języku C#.
