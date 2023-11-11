@@ -1,0 +1,14 @@
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.exe
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.deps.json
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.runtimeconfig.json
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.runtimeconfig.dev.json
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.dll
+C:\Users\Walor\source\repos\Karak\Karak\bin\Debug\netcoreapp3.1\Karak.pdb
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.csproj.AssemblyReference.cache
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.AssemblyInfoInputs.cache
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.AssemblyInfo.cs
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.csproj.CoreCompileInputs.cache
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.dll
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.pdb
+C:\Users\Walor\source\repos\Karak\Karak\obj\Debug\netcoreapp3.1\Karak.genruntimeconfig.cache
